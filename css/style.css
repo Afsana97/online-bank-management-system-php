@@ -1,0 +1,16 @@
+*{
+    margin:0px;
+    padding: 0px;
+}
+a{
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+}
+a:hover{
+    color:red;
+    text-decoration: underline;
+}
+.view-table-account{
+    border: 5px solid greenyellow;
+}
